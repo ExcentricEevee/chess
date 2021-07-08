@@ -1,0 +1,4 @@
+This is a capstone project for the Ruby Course on The Odin Project, to demonstrate call coding skills learned: 
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/ruby-final-project
+
+The goal is to make a fully-functioning human-vs-human chess game that allows all pieces to move as they should, constrained to not go out of bounds or make otherwise illegal moves, such as with castling, and able to identify check and checkmate correctly. The game should also be serializable, so the game can be saved and loaded at a later time. The code itself should demonstrate proper Object-Oriented Design with modular and clean classes and methods, and uses RSpec to test the important areas of functionality.
